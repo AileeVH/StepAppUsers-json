@@ -1,0 +1,42 @@
+[
+  {
+    "id": 101,
+    "brand": "Google",
+    "model": "Pixel 8",
+    "os": "Android",
+    "hasStepSensor": true,
+    "imageUrl": "https://picsum.photos/seed/device-101/600/400"
+  },
+  {
+    "id": 102,
+    "brand": "Samsung",
+    "model": "Galaxy S23",
+    "os": "Android",
+    "hasStepSensor": true,
+    "imageUrl": "https://picsum.photos/seed/device-102/600/400"
+  },
+  {
+    "id": 103,
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "os": "iOS",
+    "hasStepSensor": true,
+    "imageUrl": "https://picsum.photos/seed/device-103/600/400"
+  },
+  {
+    "id": 104,
+    "brand": "Samsung",
+    "model": "Galaxy A54",
+    "os": "Android",
+    "hasStepSensor": true,
+    "imageUrl": "https://picsum.photos/seed/device-104/600/400"
+  },
+  {
+    "id": 105,
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "os": "iOS",
+    "hasStepSensor": true,
+    "imageUrl": "https://picsum.photos/seed/device-105/600/400"
+  }
+]
