@@ -61,7 +61,7 @@
     "dailyGoalSteps": 7000,
     "isActive": true,
     "birthDate": "1998-12-19",
-    "imageUrl": "https://picsum.photos/seed/user-005/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Sofia.png",
     "plan": "plus",
     "favoriteActivities": ["walking", "pilates"],
     "device": { "id": 104, "brand": "Samsung", "model": "Galaxy A54", "os": "Android", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-104/600/400" }
