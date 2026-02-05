@@ -6,7 +6,7 @@
     "dailyGoalSteps": 9000,
     "isActive": true,
     "birthDate": "2004-08-17",
-    "imageUrl": "https://picsum.photos/seed/user-001/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Ailee.png",
     "plan": "free",
     "favoriteActivities": ["walking", "stretching", "light cardio"],
     "device": {
@@ -25,10 +25,17 @@
     "dailyGoalSteps": 8000,
     "isActive": true,
     "birthDate": "2002-03-11",
-    "imageUrl": "https://picsum.photos/seed/user-002/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Noah.png",
     "plan": "plus",
     "favoriteActivities": ["walking", "cycling"],
-    "device": { "id": 101, "brand": "Google", "model": "Pixel 8", "os": "Android", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-101/600/400" }
+    "device": {
+      "id": 101,
+      "brand": "Google",
+      "model": "Pixel 8",
+      "os": "Android",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-101/600/400"
+    }
   },
   {
     "id": 3,
@@ -37,10 +44,17 @@
     "dailyGoalSteps": 7500,
     "isActive": false,
     "birthDate": "1999-10-02",
-    "imageUrl": "https://picsum.photos/seed/user-003/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Emma.png",
     "plan": "free",
     "favoriteActivities": ["walking", "yoga"],
-    "device": { "id": 103, "brand": "Apple", "model": "iPhone 14", "os": "iOS", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-103/600/400" }
+    "device": {
+      "id": 103,
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "os": "iOS",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-103/600/400"
+    }
   },
   {
     "id": 4,
@@ -49,10 +63,17 @@
     "dailyGoalSteps": 10000,
     "isActive": true,
     "birthDate": "2001-06-24",
-    "imageUrl": "https://picsum.photos/seed/user-004/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Liam.png",
     "plan": "pro",
     "favoriteActivities": ["walking", "running"],
-    "device": { "id": 102, "brand": "Samsung", "model": "Galaxy S23", "os": "Android", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-102/600/400" }
+    "device": {
+      "id": 102,
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "os": "Android",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-102/600/400"
+    }
   },
   {
     "id": 5,
@@ -64,7 +85,14 @@
     "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Sofia.png",
     "plan": "plus",
     "favoriteActivities": ["walking", "pilates"],
-    "device": { "id": 104, "brand": "Samsung", "model": "Galaxy A54", "os": "Android", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-104/600/400" }
+    "device": {
+      "id": 104,
+      "brand": "Samsung",
+      "model": "Galaxy A54",
+      "os": "Android",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-104/600/400"
+    }
   },
 
   {
@@ -74,10 +102,17 @@
     "dailyGoalSteps": 8500,
     "isActive": true,
     "birthDate": "2000-01-08",
-    "imageUrl": "https://picsum.photos/seed/user-006/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Milan.png",
     "plan": "free",
     "favoriteActivities": ["walking", "stairs"],
-    "device": { "id": 101, "brand": "Google", "model": "Pixel 8", "os": "Android", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-101/600/400" }
+    "device": {
+      "id": 101,
+      "brand": "Google",
+      "model": "Pixel 8",
+      "os": "Android",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-101/600/400"
+    }
   },
   {
     "id": 7,
@@ -86,10 +121,17 @@
     "dailyGoalSteps": 9000,
     "isActive": false,
     "birthDate": "2003-05-30",
-    "imageUrl": "https://picsum.photos/seed/user-007/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Chloe.png",
     "plan": "free",
     "favoriteActivities": ["walking", "dance"],
-    "device": { "id": 103, "brand": "Apple", "model": "iPhone 14", "os": "iOS", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-103/600/400" }
+    "device": {
+      "id": 103,
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "os": "iOS",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-103/600/400"
+    }
   },
   {
     "id": 8,
@@ -98,10 +140,17 @@
     "dailyGoalSteps": 6500,
     "isActive": true,
     "birthDate": "1997-09-14",
-    "imageUrl": "https://picsum.photos/seed/user-008/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Lucas.png",
     "plan": "plus",
     "favoriteActivities": ["walking", "hiking"],
-    "device": { "id": 102, "brand": "Samsung", "model": "Galaxy S23", "os": "Android", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-102/600/400" }
+    "device": {
+      "id": 102,
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "os": "Android",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-102/600/400"
+    }
   },
   {
     "id": 9,
@@ -110,10 +159,17 @@
     "dailyGoalSteps": 7200,
     "isActive": true,
     "birthDate": "2005-02-01",
-    "imageUrl": "https://picsum.photos/seed/user-009/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Nora.png",
     "plan": "free",
     "favoriteActivities": ["walking", "stretching"],
-    "device": { "id": 104, "brand": "Samsung", "model": "Galaxy A54", "os": "Android", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-104/600/400" }
+    "device": {
+      "id": 104,
+      "brand": "Samsung",
+      "model": "Galaxy A54",
+      "os": "Android",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-104/600/400"
+    }
   },
   {
     "id": 10,
@@ -122,10 +178,17 @@
     "dailyGoalSteps": 11000,
     "isActive": true,
     "birthDate": "1996-11-07",
-    "imageUrl": "https://picsum.photos/seed/user-010/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Ethan.png",
     "plan": "pro",
     "favoriteActivities": ["running", "walking"],
-    "device": { "id": 101, "brand": "Google", "model": "Pixel 8", "os": "Android", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-101/600/400" }
+    "device": {
+      "id": 101,
+      "brand": "Google",
+      "model": "Pixel 8",
+      "os": "Android",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-101/600/400"
+    }
   },
 
   {
@@ -135,7 +198,7 @@
     "dailyGoalSteps": 6000,
     "isActive": false,
     "birthDate": "1999-04-22",
-    "imageUrl": "https://picsum.photos/seed/user-011/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Maya.png",
     "plan": "free",
     "favoriteActivities": ["yoga", "walking"],
     "device": {
@@ -154,10 +217,17 @@
     "dailyGoalSteps": 8200,
     "isActive": true,
     "birthDate": "2001-02-16",
-    "imageUrl": "https://picsum.photos/seed/user-012/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Arnaud.png",
     "plan": "plus",
     "favoriteActivities": ["cycling", "walking"],
-    "device": { "id": 102, "brand": "Samsung", "model": "Galaxy S23", "os": "Android", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-102/600/400" }
+    "device": {
+      "id": 102,
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "os": "Android",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-102/600/400"
+    }
   },
   {
     "id": 13,
@@ -166,10 +236,17 @@
     "dailyGoalSteps": 9500,
     "isActive": true,
     "birthDate": "2003-07-09",
-    "imageUrl": "https://picsum.photos/seed/user-013/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Julie.png",
     "plan": "free",
     "favoriteActivities": ["walking", "light cardio"],
-    "device": { "id": 101, "brand": "Google", "model": "Pixel 8", "os": "Android", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-101/600/400" }
+    "device": {
+      "id": 101,
+      "brand": "Google",
+      "model": "Pixel 8",
+      "os": "Android",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-101/600/400"
+    }
   },
   {
     "id": 14,
@@ -178,10 +255,17 @@
     "dailyGoalSteps": 7800,
     "isActive": true,
     "birthDate": "2002-09-03",
-    "imageUrl": "https://picsum.photos/seed/user-014/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Rayan.png",
     "plan": "plus",
     "favoriteActivities": ["hiking", "walking"],
-    "device": { "id": 104, "brand": "Samsung", "model": "Galaxy A54", "os": "Android", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-104/600/400" }
+    "device": {
+      "id": 104,
+      "brand": "Samsung",
+      "model": "Galaxy A54",
+      "os": "Android",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-104/600/400"
+    }
   },
   {
     "id": 15,
@@ -190,9 +274,16 @@
     "dailyGoalSteps": 6800,
     "isActive": false,
     "birthDate": "1998-01-28",
-    "imageUrl": "https://picsum.photos/seed/user-015/400/400",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Sara.png",
     "plan": "free",
     "favoriteActivities": ["walking", "stretching"],
-    "device": { "id": 103, "brand": "Apple", "model": "iPhone 14", "os": "iOS", "hasStepSensor": true, "imageUrl": "https://picsum.photos/seed/device-103/600/400" }
+    "device": {
+      "id": 103,
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "os": "iOS",
+      "hasStepSensor": true,
+      "imageUrl": "https://picsum.photos/seed/device-103/600/400"
+    }
   }
 ]
