@@ -6,7 +6,7 @@
     "dailyGoalSteps": 9000,
     "isActive": true,
     "birthDate": "2004-08-17",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Ailee.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Ailee.png",
     "plan": "free",
     "favoriteActivities": ["walking", "stretching", "light cardio"],
     "device": {
@@ -25,7 +25,7 @@
     "dailyGoalSteps": 8000,
     "isActive": true,
     "birthDate": "2002-03-11",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Noah.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Noah.png",
     "plan": "plus",
     "favoriteActivities": ["walking", "cycling"],
     "device": {
@@ -44,7 +44,7 @@
     "dailyGoalSteps": 7500,
     "isActive": false,
     "birthDate": "1999-10-02",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Emma.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Emma.png",
     "plan": "free",
     "favoriteActivities": ["walking", "yoga"],
     "device": {
@@ -63,7 +63,7 @@
     "dailyGoalSteps": 10000,
     "isActive": true,
     "birthDate": "2001-06-24",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Liam.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Liam.png",
     "plan": "pro",
     "favoriteActivities": ["walking", "running"],
     "device": {
@@ -82,7 +82,7 @@
     "dailyGoalSteps": 7000,
     "isActive": true,
     "birthDate": "1998-12-19",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Sofia.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Sofia.png",
     "plan": "plus",
     "favoriteActivities": ["walking", "pilates"],
     "device": {
@@ -102,7 +102,7 @@
     "dailyGoalSteps": 8500,
     "isActive": true,
     "birthDate": "2000-01-08",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Milan.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Milan.png",
     "plan": "free",
     "favoriteActivities": ["walking", "stairs"],
     "device": {
@@ -121,7 +121,7 @@
     "dailyGoalSteps": 9000,
     "isActive": false,
     "birthDate": "2003-05-30",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Chloe.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Chloe.png",
     "plan": "free",
     "favoriteActivities": ["walking", "dance"],
     "device": {
@@ -140,7 +140,7 @@
     "dailyGoalSteps": 6500,
     "isActive": true,
     "birthDate": "1997-09-14",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Lucas.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Lucas.png",
     "plan": "plus",
     "favoriteActivities": ["walking", "hiking"],
     "device": {
@@ -159,7 +159,7 @@
     "dailyGoalSteps": 7200,
     "isActive": true,
     "birthDate": "2005-02-01",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Nora.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Nora.png",
     "plan": "free",
     "favoriteActivities": ["walking", "stretching"],
     "device": {
@@ -178,7 +178,7 @@
     "dailyGoalSteps": 11000,
     "isActive": true,
     "birthDate": "1996-11-07",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Ethan.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Ethan.png",
     "plan": "pro",
     "favoriteActivities": ["running", "walking"],
     "device": {
@@ -198,7 +198,7 @@
     "dailyGoalSteps": 6000,
     "isActive": false,
     "birthDate": "1999-04-22",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Maya.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Maya.png",
     "plan": "free",
     "favoriteActivities": ["yoga", "walking"],
     "device": {
@@ -217,7 +217,7 @@
     "dailyGoalSteps": 8200,
     "isActive": true,
     "birthDate": "2001-02-16",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Arnaud.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Arnaud.png",
     "plan": "plus",
     "favoriteActivities": ["cycling", "walking"],
     "device": {
@@ -236,7 +236,7 @@
     "dailyGoalSteps": 9500,
     "isActive": true,
     "birthDate": "2003-07-09",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Julie.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Julie.png",
     "plan": "free",
     "favoriteActivities": ["walking", "light cardio"],
     "device": {
@@ -255,7 +255,7 @@
     "dailyGoalSteps": 7800,
     "isActive": true,
     "birthDate": "2002-09-03",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Rayan.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Rayan.png",
     "plan": "plus",
     "favoriteActivities": ["hiking", "walking"],
     "device": {
@@ -274,7 +274,7 @@
     "dailyGoalSteps": 6800,
     "isActive": false,
     "birthDate": "1998-01-28",
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Sara.png",
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/users/Sara.png",
     "plan": "free",
     "favoriteActivities": ["walking", "stretching"],
     "device": {
