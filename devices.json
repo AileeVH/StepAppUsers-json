@@ -5,7 +5,7 @@
     "model": "Pixel 8",
     "os": "Android",
     "hasStepSensor": true,
-    "imageUrl": "https://picsum.photos/seed/device-101/600/400"
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Devices/Google%20Pixel%208.png"
   },
   {
     "id": 102,
@@ -13,7 +13,7 @@
     "model": "Galaxy S23",
     "os": "Android",
     "hasStepSensor": true,
-    "imageUrl": "https://picsum.photos/seed/device-102/600/400"
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Devices/Samsung%20Galaxy%20S23.png"
   },
   {
     "id": 103,
@@ -21,7 +21,7 @@
     "model": "iPhone 14",
     "os": "iOS",
     "hasStepSensor": true,
-    "imageUrl": "https://picsum.photos/seed/device-103/600/400"
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Devices/iPhone%2014.png"
   },
   {
     "id": 104,
@@ -29,7 +29,7 @@
     "model": "Galaxy A54",
     "os": "Android",
     "hasStepSensor": true,
-    "imageUrl": "https://picsum.photos/seed/device-104/600/400"
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Devices/Samsung%20Galaxy%20A54.png"
   },
   {
     "id": 105,
