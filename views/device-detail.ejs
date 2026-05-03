@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= device.brand %> <%= device.model %></title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="layout">
+        <%- include("templates/nav") %>
+
+        <main class="detail-page">
+            <a class="back-link" href="<%= user ? '/user/' + user.id : '/devices' %>">← Back</a>
+
+            <h1 class="detail-title">
+                <%= device.brand %> <%= device.model %>
+            </h1>
+
+            <div class="device-card">
+                <div class="device-content">
+                    <img class="detail-device-img" src="/images/devices/<%= device.brand %> <%= device.model %>.png" />
+                    
+                    <div>
+                        <p><strong>Brand:</strong> <%= device.brand %></p>
+                        <p><strong>Model:</strong> <%= device.model %></p>
+                        <p><strong>OS:</strong> <%= device.os %></p>
+                        <p><strong>Step Sensor:</strong> <%= device.hasStepSensor %></p>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+</html>

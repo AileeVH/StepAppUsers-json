@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Devices</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="layout">
+        <%- include("templates/nav") %>
+
+        <main>
+            <form method="GET">
+                <input 
+                class="search-input" 
+                type="text" 
+                name="search" 
+                placeholder="Search for devices"
+                value="<%= search %>"
+                />
+            </form>
+
+            <%
+                function sortLink(field) {
+                const nextOrder = sort === field && order === "asc" ? "desc" : "asc";
+                return `/devices?search=${encodeURIComponent(search)}&sort=${field}&order=${nextOrder}`;
+                }
+
+                function sortArrow(field) {
+                if (sort !== field) return "";
+                return order === "asc" ? " ▲" : " ▼";
+                }
+            %>
+
+            <table>
+                <tr>
+                <th><a href="<%= sortLink('brand') %>">DEVICE<%= sortArrow('brand') %></a></th>
+                <th><a href="<%= sortLink('os') %>">OS<%= sortArrow('os') %></a></th>
+                <th><a href="<%= sortLink('hasStepSensor') %>">STEP SENSOR<%= sortArrow('hasStepSensor') %></a></th>
+                <th>ACTIONS</th>
+                </tr>
+
+                <% devices.forEach(device => { %>
+                <tr>
+                    <td>
+                        <div class="user-cell">
+                            <img class="user-img" src="/images/devices/<%= device.brand %> <%= device.model %>.png" />
+                            <div>
+                                <div class="user-name"><%= device.model %></div>
+                                <div class="device-name"><%= device.brand %></div>
+                            </div>
+                        </div>
+                    </td>
+
+                    <td><%= device.os %></td>
+                    <td>
+                        <span class="active-dot <%= device.hasStepSensor ? 'active-true' : 'active-false' %>"></span>
+                    </td>
+                    <td>
+                        <a class="view-link" href="/device/<%= device.id %>">View</a>
+                    </td>
+                </tr>
+                <% }) %>
+            </table>
+        </main>
+    </div>
+</body>
+</html>

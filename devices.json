@@ -21,7 +21,7 @@
     "model": "iPhone 14",
     "os": "iOS",
     "hasStepSensor": true,
-    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Devices/iPhone%2014.png"
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/Devices/Apple%20iPhone%2014.png"
   },
   {
     "id": 104,
@@ -37,6 +37,6 @@
     "model": "iPhone 15 Pro",
     "os": "iOS",
     "hasStepSensor": true,
-    "imageUrl": "https://picsum.photos/seed/device-105/600/400"
+    "imageUrl": "https://raw.githubusercontent.com/AileeVH/StepAppUsers-json/refs/heads/main/images/devices/Apple%20iPhone%2015%20Pro.png"
   }
 ]
